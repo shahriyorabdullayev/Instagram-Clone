@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/drawable-v24/ic_add.xml" value="0.167" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/drawable-v24/ic_love.xml" value="0.1455" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/drawable-v24/ic_love_red.xml" value="0.1455" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/drawable-v24/ic_save.xml" value="0.1455" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/drawable-v24/ic_search.xml" value="0.167" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/drawable-v24/line_divider.xml" value="0.181" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/drawable-v24/shape_circle_orange_light.xml" value="0.181" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/drawable-v24/view_rounded_corner.xml" value="0.1625" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/drawable/app_main_gradient.xml" value="0.1655" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/drawable/bottom_navigation_color_selector.xml" value="0.186" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/drawable/edittext_rounded_corner.xml" value="0.181" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/font/custom_font.xml" value="0.2794871794871795" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/layout/activity_main.xml" value="0.2578125" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/layout/activity_sign_in.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/layout/activity_sign_up.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/layout/activity_splash.xml" value="0.2578125" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/layout/custom_progress_dialog.xml" value="0.2578125" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/layout/fragment_favorite.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/layout/fragment_home.xml" value="0.2578125" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/layout/fragment_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/layout/fragment_search.xml" value="0.2578125" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/layout/fragment_upload.xml" value="0.2578125" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/layout/item_favorite_post.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/layout/item_post.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/layout/item_profile.xml" value="0.2578125" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/layout/item_user_search.xml" value="0.2578125" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/InstagramAppClone/app/src/main/res/menu/navigation.xml" value="0.2578125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
