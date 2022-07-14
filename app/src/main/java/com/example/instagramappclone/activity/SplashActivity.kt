@@ -13,6 +13,7 @@ import androidx.core.view.isVisible
 import com.example.instagramappclone.R
 import com.example.instagramappclone.managers.AuthManager
 import com.example.instagramappclone.managers.PrefsManager
+import com.example.instagramappclone.utils.DeepLink
 import com.example.instagramappclone.utils.Logger
 import com.google.android.gms.tasks.OnCompleteListener
 import com.google.android.material.internal.ContextUtils.getActivity
@@ -28,15 +29,17 @@ class SplashActivity : BaseActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash)
-
         initViews()
+//        throw RuntimeException("Test Crash")
 
     }
-
+ 
 
     private fun initViews() {
         countDownTimer()
         loadFCMToken()
+        DeepLink.createLongLink("100234")
+        DeepLink.createShortLink("200023")
     }
 
     private fun countDownTimer() {
@@ -49,7 +52,6 @@ class SplashActivity : BaseActivity() {
                 }else {
                     callSignInActivity(this@SplashActivity)
                 }
-
             }
 
         }.start()

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>welcome_text</key>
+        <value>Welcome to Instagram</value>
+    </entry>
+    <entry>
+        <key>welcome_font_size</key>
+        <value>30</value>
+    </entry>
+    <entry>
+        <key>main_background_color</key>
+        <value>#42f486</value>
+    </entry>
+
+    <entry>
+        <key>gradient1</key>
+        <value>#ffa500</value>
+    </entry>
+
+    <entry>
+        <key>gradient2</key>
+        <value>#FFFF00</value>
+    </entry>
+
+    <entry>
+        <key>tablet</key>
+        <value>#7CFC00</value>
+    </entry>
+</defaultsMap>

@@ -7,6 +7,7 @@
     tools:context=".activity.SignInActivity">
 
     <LinearLayout
+        android:id="@+id/ll_background"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@drawable/app_main_gradient"
@@ -22,6 +23,7 @@
             android:padding="25dp">
 
             <TextView
+                android:id="@+id/tv_welcome"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/str_instagram"
@@ -95,6 +97,14 @@
                 android:textSize="17sp"
                 android:textStyle="bold" />
         </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_link"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="No Link"
+            android:textColor="#ffffff" />
 
     </LinearLayout>
 
